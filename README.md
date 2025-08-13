@@ -1,6 +1,6 @@
 
 # ChatMyDocs -  Efficient PDF Parsing and Data Labeling 
-In today's digital age, the ubiquity of Portable Document Format (PDF) files in various domains cannot be overstated. They serve as the cornerstone of document sharing, archiving, and data distribution across diverse industries. However, this widespread use comes with its fair share of challenges, particularly in the realms of parsing and data labeling.
+The ubiquity of Portable Document Format (PDF) files in various domains cannot be overstated. They serve as the cornerstone of document sharing, archiving, and data distribution across diverse industries. However, this widespread use comes with its fair share of challenges, particularly in the realms of parsing and data labeling.
 
 The **problem** we aim to address is the inherent complexity of working with PDF files. While they are excellent for preserving document formatting and structure, extracting and interpreting data from PDFs programmatically often proves to be a formidable task. Inaccurate or inefficient parsing can lead to significant data loss and suboptimal information extraction.
 
@@ -54,3 +54,4 @@ Submit a Pull Request with a clear description of your changes.
 Our team will review your contribution and provide feedback promptly.
 
 If you encounter any issues or have ideas for improvements, please open an issue on our GitHub Issue Tracker.
+
